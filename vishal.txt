@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I am vishal
 name is enough
+=======
+I am vishal34
+>>>>>>> 4b82b803b1b7499bd6e88c672ed9fa2dd4bf5ef8
